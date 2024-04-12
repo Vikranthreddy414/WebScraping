@@ -1,4 +1,5 @@
 ****Project Overview****
+
 Note: Module 3 Develeopment work is in progress and is expected to be completed by April 25th 2024.
 
 **1. Module 1: Scraping Product Information**
